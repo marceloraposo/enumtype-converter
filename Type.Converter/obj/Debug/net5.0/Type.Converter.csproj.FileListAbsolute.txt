@@ -1,0 +1,12 @@
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/bin/Debug/net5.0/Type.Converter.deps.json
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/bin/Debug/net5.0/Type.Converter.dll
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/bin/Debug/net5.0/ref/Type.Converter.dll
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/bin/Debug/net5.0/Type.Converter.pdb
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/Type.Converter.csproj.AssemblyReference.cache
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/Type.Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/Type.Converter.AssemblyInfoInputs.cache
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/Type.Converter.AssemblyInfo.cs
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/Type.Converter.csproj.CoreCompileInputs.cache
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/Type.Converter.dll
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/ref/Type.Converter.dll
+/home/marcelo/Pessoal/Dev/type-converter/Type.Converter/obj/Debug/net5.0/Type.Converter.pdb
